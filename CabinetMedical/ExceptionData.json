@@ -1,0 +1,32 @@
+[
+{
+  "Message1": null,
+  "TargetSite": null,
+  "StackTrace": null,
+  "Message": "message",
+  "Data": {},
+  "InnerException": null,
+  "HelpLink": null,
+  "Source": null,
+  "HResult": -2146233088
+},
+{
+  "Message1": null,
+  "TargetSite": null,
+  "StackTrace": null,
+  "Message": "message",
+  "Data": {},
+  "InnerException": null,
+  "HelpLink": null,
+  "Source": null,
+  "HResult": -2146233088
+},
+{
+  "Application": "Soins2021",
+  "ClasseException": "SoinException",
+  "DateException": "2021-10-07T08:56:32.2933758+02:00",
+  "MessageException": "message",
+  "UserException": "erwan.lambert",
+  "UserMachine": "CP-SIO-W10-PG01"
+}
+]
